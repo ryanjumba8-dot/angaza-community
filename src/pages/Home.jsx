@@ -11,7 +11,7 @@ import img6 from "../assets/Angaza bkngrnd3.jpeg";
 import img7 from "../assets/Angaza7.jpeg";
 import img8 from "../assets/Angaza8.jpeg";
 import img9 from "../assets/Angaza9.jpeg";
-import img10 from "../assets/Angaza10.jpeg";
+import img10 from "../assets/angaza10.jpeg";
 import img11 from "../assets/Angaza11.jpeg";
 import img12 from "../assets/Angaza12.jpeg";
 
